@@ -31,7 +31,7 @@ This is a Mini-Project for SC1015 on predicting body fat using body measurements
 ## 2. Exploratory Data Analysis
 - We used [Pandas-Profiling](https://pypi.org/project/pandas-profiling/) in order to quickly gain insights into the data which allows us to quickly sift through multiple datasets and find a suitable one.
 - It can be installed with the command `pip install pandas-profiling` in the python terminal or `!pip install pandas-profiling` in jupyter notebook.
-- We have chosen [Body Fat Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/body-fat-prediction-dataset?datasetId=1408058&sortBy=voteCount) uploaded by user *fedesoriano* in [Kaggle](https://www.kaggle.com/)
+- We have chosen [Body Fat Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/body-fat-prediction-dataset) uploaded by user *fedesoriano* in [Kaggle](https://www.kaggle.com/)
 - After exploring and analysing the dataset, we discovered that there are some issues such as multicollinearity.
 - As such, we have cleaned the data to better fit our requirements for conducting our machine learning models in order to improve reliability and accuracy.
 ## 3. Machine Learning Models Used
@@ -60,4 +60,9 @@ This is a Mini-Project for SC1015 on predicting body fat using body measurements
 
 
 ## 5. References
+- http://clipart-library.com/clipart/1946445.htm
+- https://pypi.org/project/pandas-profiling/
+- https://scikit-learn.org/stable/
+- https://www.kaggle.com/datasets/fedesoriano/body-fat-prediction-dataset
+
 
