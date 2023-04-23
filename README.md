@@ -6,14 +6,10 @@ Body Fat Predictor for SC1015 Mini Project
 This is a Mini-Project for SC1015 on predicting body fat using body measurements with the help of machine learning. The contents of this README are as follows:
 
 1. [Problem Definition](#1-Problem-Definition)
-2. [Data Visualization](https://github.com/)
-3. [Data Resampling and Splitting](https://github.com/)
-4. [Linear Regression](https://github.com/)
-5. [Ridge Regression](https://github.com/)
-6. [K-Nearest Neighbor Regression](https://github.com/)
-7. [Conclusion](https://github.com/)
-  
- 2. [Data Preparation and Cleaning](#2-Data-Preparation-and-Cleaning)
+2. [Exploratory Data Analysis](#2-Exploratory-Data-Analysis)
+3. [Machine Learning Models Used](#3-Machine-Learning-Models-Used)
+4. [Conclusion](#4-Conclusion)
+5. [References](#5-References)
 
   
 ## Contributors
@@ -29,15 +25,15 @@ This is a Mini-Project for SC1015 on predicting body fat using body measurements
 - Body Fat percentage is a better indicator of overall health and obesity risk as it considers body composition more accurately, but it is expensive and time-consuming.
 - Thus, our motivation for our project is to use machine learning to predict body fat percentage through simple body measurements
 
-## Exploratory Data Analysis
+## 2. Exploratory Data Analysis
 
-## Models Used
+## 3. Machine Learning Models Used
 
 1. Linear Regression
 2. Ridge Regression
 3. K-Nearest Neighbor Regression
 
-## Conclusion
+## 4. Conclusion
 
 -Ridge Regression was the best machine learning model, followed by Linear Regression and K-Nearest Neighbor Regression being the worst.
 
@@ -46,5 +42,5 @@ This is a Mini-Project for SC1015 on predicting body fat using body measurements
 
 
 
-## References
+## 5. References
 
