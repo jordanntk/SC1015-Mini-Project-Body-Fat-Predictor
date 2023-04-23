@@ -15,8 +15,8 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
   
 ## Contributors
 
-- @jordanntk
-- @dlee586
+- [jordanntk](https://github.com/jordanntk)
+- [dlee586](https://github.com/dlee586)
 
 ## Problem Definition
 
