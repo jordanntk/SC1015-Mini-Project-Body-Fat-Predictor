@@ -49,7 +49,7 @@ This is a Mini-Project for SC1015 on predicting body fat using body measurements
   - Firstly, most of the predictors (independent variables) have a linear relationship with 'Density' which KNN would underperform against more appropriate models such as Linear and Ridge Regression.
   - Secondly, Linear Regression model might have overfitted the data points and failed to properly generalise while running with the training data which Ridge Regression is a modified version of Linear Regression that aims to tackle the issue of overfitting by applying a regularisation/penalty term. 
   
-- Finally, with the ability to calculate one's body density, we can calculate body fat percentage using the *Siri Equation* and many other calculations.
+- Finally, with the ability to calculate one's body density, we can calculate body fat percentage using the [*Siri Equation*](https://www.topendsports.com/testing/siri-equation.htm) and many other calculations.
 
 
 ## What did we learn from this project?
