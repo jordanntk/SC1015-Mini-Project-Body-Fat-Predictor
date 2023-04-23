@@ -1,6 +1,9 @@
 # SC1015-Mini-Project-Body-Fat-Predictor
 Body Fat Predictor for SC1015 Mini Project
 
+![1946445](https://user-images.githubusercontent.com/131585577/233834977-b1341a70-0a2a-4359-80b2-376feced3154.jpg)
+
+
 ## About
 
 This is a Mini-Project for SC1015 on predicting body fat using body measurements with the help of machine learning. The contents of this README are as follows:
